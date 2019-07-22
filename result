@@ -1,0 +1,6 @@
+/usr/share/jenkins/jenkins.war
+/usr/local/openjdk-8/jre/lib/rt.jar
+/usr/local/openjdk-8/src.zip
+/usr/local/openjdk-8/lib/tools.jar
+/usr/local/openjdk-8/lib/ct.sym
+
